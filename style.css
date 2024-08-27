@@ -1,0 +1,23 @@
+body{
+    background-color: black;
+}
+
+img{
+    border: 5px solid snow;
+    width: 100%;
+}
+
+div{
+    width: 50%;
+    margin-left: 25%;
+    text-align: centeR;
+    color: bisque;
+    margin-top: 100px;
+}
+
+h1{
+    color: white;
+    text-transform: capitalize;
+    font-size: 3rem;
+    font-family: "libre baskerville", serif;
+}
